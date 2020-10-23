@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banana-galaxy)](https://github.com/banana-galaxy/)
 
 
-A little bit about me:
+## A little bit about me 🔎
 
 - 🌱 I’m currently learning: C
 - 📫 How to reach me: email should be attached to my profile, but if you want a sure way to reach me I'm on discord; username: alex-galaxy#5128
